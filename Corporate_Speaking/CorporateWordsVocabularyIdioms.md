@@ -480,5 +480,3 @@
 | 97 | Close | Finalize | "We need to finalize the deal by the end of the month." |
 
 ---
-
-**Thank you for using this guide!**
