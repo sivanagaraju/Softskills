@@ -15,5 +15,3 @@ Decision-making under emotional duress.
 ### [03_Burnout_prevention_and_recovery](./03_Burnout_prevention_and_recovery)
 
 Burnout prevention and recovery.
-
-I
